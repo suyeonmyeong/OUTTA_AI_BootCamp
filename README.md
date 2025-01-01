@@ -20,3 +20,4 @@
 | 12주차   | BERT                                     |
 | 12_1주차 | Hugging Face                             |
 | 13주차   | Gemini                                   |
+| 14주차   | Diffusion                                |
